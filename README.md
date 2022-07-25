@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Foxosaur
-- 👀 I’m interested in C#, WPF and .Net 5.0
+- 👀 I’m interested in C#, WPF and .Net 6.0
 - 🌱 I’m currently learning all of the above, on the fly!
 - 💞️ I’m looking to collaborate on Anything.
 - 📫 How to reach me ...Github
